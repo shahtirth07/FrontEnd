@@ -6,8 +6,8 @@ import path from 'path'
 export default defineConfig({
   resolve: {
     alias: {
-      '@components': path.resolve(__dirname, 'reactjs-todolist/components'),
-      '@assets': path.resolve(__dirname, 'reactjs-todolist/assets')
+      '@components': path.resolve(__dirname, 'components'),
+      '@assets': path.resolve(__dirname, 'assets')
     }},
   plugins: [react()],
   
