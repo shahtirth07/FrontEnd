@@ -1,5 +1,5 @@
 import React from 'react'
-import TodoCard from './TodoCard'
+import TodoCard from '@components/TodoCard'
 
 export default function TodoList(props) {
     const { todos } = props
