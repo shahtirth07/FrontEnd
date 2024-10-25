@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://github.com/shahtirth07/FrontEnd/tree/main/reactjs-todolist",
+  "homepage": "https://github.com/shahtirth07/FrontEnd/tree/main/reactjs-todolist",
   "name": "reactjs-todolist",
   "private": true,
   "version": "0.0.0",
@@ -24,7 +24,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
-    "vite": "^5.1.4"
+    "vite": "^5.4.10"
   },
   "description": "CRUD TODO APP W. REACTJS",
   "main": "eslint.config.js",
